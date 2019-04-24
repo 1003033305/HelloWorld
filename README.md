@@ -1,2 +1,2 @@
-# JG
-journey and gourmet
+# HelloWorld
+This is my first Repository.
